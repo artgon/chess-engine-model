@@ -1,0 +1,3 @@
+[submodule "chess-games-dataset"]
+	path = chess-games-dataset
+	url = git@github.com:iAmEthanMai/chess-games-dataset.git
